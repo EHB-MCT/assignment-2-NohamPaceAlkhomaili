@@ -1,0 +1,1 @@
+Here you place all your prefabs, and specifically in this folder, everything related to power-ups in Unity.
