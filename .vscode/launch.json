@@ -1,1 +1,10 @@
-//Creation//
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Unity",
+            "type": "vstuc",
+            "request": "attach"
+        }
+     ]
+}
